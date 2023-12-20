@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BBQctHLb3CgFKudzy34GalXqrOJDbiMk34hir3JMxWpVFWvf08423XcAdgpxgL4s13/UHvKiT8a+z+AnrC4Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Downloads\\AspNetCoreDasboard\\Dashboard\\Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
